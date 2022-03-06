@@ -1,0 +1,5 @@
+NAME->GAURAV SINDHU
+Roll Number-> LCS2021008
+Branch-> CS
+Hobbies-> Exploring topics in related to science,economics,maths, watching series, playing badminton
+Interests->Open source,Web Dev,neural network and some nerdy stuff.
