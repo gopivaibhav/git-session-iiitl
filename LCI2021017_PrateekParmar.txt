@@ -1,0 +1,5 @@
+Name: Prateek Parmar
+Roll Number: LCI2021017
+Branch: CSAI
+Hobbies: playing volleyball, football, watching web-series
+Interests: Competitive programming, Frontend Web Dev, Mashine Learning
