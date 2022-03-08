@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /search
+Disallow: /sdch
+Disallow: /groups
+Disallow: /images
+
+Hello, My name is Deepak Chattwani (Deep)
+Branch-Computer science and Business
+Roll number -LCB2021004
+Age-18
+Gender-sigma male 
+Hobbies-Cooking 
+Interests-Still exploring 
+
+
+Contact me at
+Linkedin-https://www.linkedin.com/in/deepak-chattwani-340bb8227/
+Email-deepakchattwaniking15@gmail.com
+
+
+SGVsbG8sIE15IG5hbWUgaXMgRGVlcGFrIENoYXR0d2FuaSAoRGVlcCkKQnJhbmNoLUNvbXB1dGVyIHNjaW
+VuY2UgYW5kIEJ1c2luZXNzClJvbGwgbnVtYmVyIC1MQ0IyMDIxMDA0CkFnZS0xOApHZW5kZXItc2lnbWEgb
+WFsZSAKSG9iYmllcy1Db29raW5nIApJbnRlcmVzdHMtU3RpbGwgZXhwbG9yaW5nIAoKCkNvbnRhY3QgbWUg
+YXQKTGlua2VkaW4taHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2RlZXBhay1jaGF0dHdhbmktMzQwYmI
+4MjI3LwpFbWFpbC1kZWVwYWtjaGF0dHdhbmlraW5nMTVAZ21haWwuY29t
+
+/:allow
