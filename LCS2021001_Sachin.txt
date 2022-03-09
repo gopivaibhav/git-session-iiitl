@@ -1,0 +1,5 @@
+Name: Sachin Dapkara
+Roll No: LCS2021001
+Branch: CS
+Hobbies: Writing
+Interests: Full Stack Web Development & Competitive Programming
